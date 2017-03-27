@@ -1,0 +1,76 @@
+body {
+	background: url(../images/contact_bg.jpg) repeat-x 0 0;
+}
+
+table {
+	margin: 13px auto 0 auto;
+}
+
+td.left {
+	text-align: right;
+	vertical-align: top;
+	font: bold 8pt Arial;
+	color: #464b47;
+	width: 50px;
+	text-shadow: 1px 1px 1px  #fff;
+}
+
+td.right {
+	vertical-align: top;
+	font: bold 8pt Arial;
+	color: #464b47;
+	width: 350px;
+}
+
+input,
+textarea {
+	margin: 0;
+	width: 350px;
+	background: #464b47;
+	border: 1px #bee91e;
+	font: bold 10pt Arial;
+	padding: 2px 2px;
+	color: #bee91e;
+	}
+
+input.button {
+	background: url(../images/submit.png) no-repeat 0 0;
+	padding: 0;
+	border: none;
+	height: 20px;
+	width: 350px;
+	padding: 0;
+	}
+	
+#mainFormError
+{
+	position: relative;
+	border: 1px;
+	border-style: solid;
+	margin: 0 auto;
+	text-align: left;
+	width: 70%;
+}
+
+input.mainFormError {
+	background-color: #bee91e;
+	color: #464b47;
+}
+
+
+textarea.mainFormError
+{
+	background-color: #bee91e;
+	color: #464b47;
+}
+
+
+select.mainFormError
+{
+	background-color: #bee91e;
+	color: #464b47;
+}
+
+
+
+
