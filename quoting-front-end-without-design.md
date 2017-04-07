@@ -1,11 +1,9 @@
 # Quoting the front end of a project without Design assets
 
 This happens to me a lot, especially with sub-zero, so i totally get the frustration. the
-good news is that you just have to change the way you think about a quote in genral and recognize the opportunities you have without pre-existing design restrictions.
+good news is that you just have to change the way you think about a quote in general and recognize the opportunities you have without pre-existing design restrictions.
 
-Let's think about the project for a sec. You're a good FE dev that knows her stuff, You can rock whatever layout comes at you, so forget visuals for now.
-
-So down to business. If we're at this point in a project, we probably have enough information on content requirements that we can start making educated guesses about functionality.
+Let's think about the project for a sec. You're a good FE dev that knows her stuff, You can rock whatever layout comes at you, so forget visuals for now. If we're at this point in a project, we probably have enough information on content requirements that we can start making educated guesses about functionality.
 
 This is a critical time to get with BE, Creative, and PM for a quick 30-60m or in ongoing Slack discussion. As soon as a project is discussed every single person in that room already has some sort of idea of how they want to approach it. Carousels? Video? Tabs? [insert thing here]?
 
@@ -19,4 +17,4 @@ Ok, so finally, let's talk about design. You may already see this in what I've d
 
 So take all of those numbers, and think about time you'll spend pushing through QA and addressing client feedback, and add those to the pile. This should be right around your final numbers.
 
-One other thing. Since you don't know about design. you have a super sweet opportunity to push ideas you've been looking to try out that you might not get to if design and functionality is already established through design. You furthermore get to do some research and pad in time to learn how to do said ideas, so definitely think about that.
+One other thing. Since you don't know about design. you have a super sweet opportunity to push ideas you've been looking to try out that you might not get to if design and functionality is already established. You furthermore get to do some research and pad in time to learn how to do said ideas, so definitely think about that.
