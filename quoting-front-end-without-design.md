@@ -3,7 +3,7 @@
 This happens to me a lot, especially with sub-zero, so i totally get the frustration. the
 good news is that you just have to change the way you think about a quote in general and recognize the opportunities you have without pre-existing design restrictions.
 
-Let's think about the project for a sec. You're a good FE dev that knows her stuff, You can rock whatever layout comes at you, so forget visuals for now. If we're at this point in a project, we probably have enough information on content requirements that we can start making educated guesses about functionality.
+Let's think about the project for a sec. You're a good FE dev that knows her stuff. You can rock whatever layout comes at you, so forget visuals for now. If we're at this point in a project, we probably have enough information on content requirements that we can start making educated guesses about functionality.
 
 This is a critical time to get with BE, Creative, and PM for a quick 30-60m or in ongoing Slack discussion. As soon as a project is discussed every single person in that room already has some sort of idea of how they want to approach it. Carousels? Video? Tabs? [insert thing here]?
 
