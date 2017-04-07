@@ -1,3 +1,5 @@
+# Quoting the front end of a project without Design assets
+
 This happens to me a lot, especially with sub-zero, so i totally get the frustration. the
 good news is that you just have to change the way you think about a quote in genral and recognize the opportunities you have without pre-existing design restrictions.
 
